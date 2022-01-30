@@ -7,7 +7,7 @@
 - 📫 How to reach me:
     - Gmail: alxbogdos2004@gmail.com
     - Instagram: alex_bogdos
-    - Messenger: Αλεξανδρος Μπογδος
+    - Facebook Messenger: Αλεξανδρος Μπογδος
 
 <!---
 alexbogdos/alexbogdos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
