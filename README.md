@@ -1,4 +1,4 @@
-- 👋 Hi, Ia m Alex Bogdos a 17 year old student in Athens, Greece. I'm interested in app development.
+- 👋 I am a 18 year old student in Athens (Greece), interested in app and game development.
 - 🌱 I’m sufficient in:
     - Unity and C#
     - Flutter and Dart
